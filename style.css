@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+/* ===Variables CSS=== */
+
+:root{
+    --header-height: 3rem;
+    --font-semi:600;
+}
+
+/* ====Cores==== */
+
+:root{
+    --first-color:#4070F4;
+    --second-color:#0E2431;
+
+}
+
+/* ===========Fontes========== */
+
+:root{
+    --body-font:'Poppins', sans-serif;
+    --big-font-size: 2rem;
+    --h2-font-size: 1.25rem;
+    --normal-font-size: 0.938rem;
+}
+@media screen and (mind - width:768px) {
+    :root{
+    --big-font-size: 3.5rem;
+    --h2-font-size: 2rem;
+    --normal-font-size: 1rem;
+    }
+}
+
+/* =========== Margins ========== */
+
