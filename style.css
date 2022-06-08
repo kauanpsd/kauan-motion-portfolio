@@ -23,6 +23,7 @@
     --h2-font-size: 1.25rem;
     --normal-font-size: 0.938rem;
 }
+
 @media screen and (mind - width:768px) {
     :root{
     --big-font-size: 3.5rem;
@@ -41,3 +42,15 @@
     --mb-5: 2.5rem;
     --mb-6: 3rem;
 }
+
+/* ==== z - Index ==== */
+
+:root{
+    --z-back: -10;  
+    --z-normal: 1;
+    --z-tooltip: 10;
+    --z-fixed: 100;
+}
+
+/* ==== BASE ==== */
+
